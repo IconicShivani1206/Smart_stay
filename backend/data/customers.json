@@ -1,0 +1,90 @@
+[
+  {
+    "customer_id": "C1001",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "membership": "Gold",
+    "past_visits": [
+      {
+        "hotel": "Taj Palace",
+        "activities": ["Swimming", "Spa", "Yoga", "Cooking Class", "City Tour"],
+        "rating": 4.5,
+        "feedback": "Loved the spa and swimming! The yoga session was refreshing, and the cooking class was well organized. City tour was informative but a bit rushed. Room service was slow though."
+      },
+      {
+        "hotel": "Marriott",
+        "activities": ["Gym", "Swimming", "Live Music", "Wine Tasting", "Spa"],
+        "rating": 4.0,
+        "feedback": "Great gym and pool. Loved the wine tasting event. Live music in the evening added a nice touch. However, spa services were limited and faced water issues in the bathroom."
+      }
+    ]
+  },
+  {
+    "customer_id": "C1002",
+    "name": "Priya Singh",
+    "email": "priya@example.com",
+    "membership": "Silver",
+    "past_visits": [
+      {
+        "hotel": "Leela Palace",
+        "activities": ["Yoga", "Spa", "Painting Class", "Nature Walk", "Meditation"],
+        "rating": 5.0,
+        "feedback": "So peaceful! Loved the yoga and meditation sessions. Painting class was a surprise delight. The nature walk was calming. Only issue: late check-in process took too long."
+      }
+    ]
+  },
+  {
+    "customer_id": "C1003",
+    "name": "Amit Kapoor",
+    "email": "amit@example.com",
+    "membership": "Platinum",
+    "past_visits": [
+      {
+        "hotel": "Hyatt Regency",
+        "activities": ["Swimming", "Trekking", "Cooking Class", "Scuba Diving", "Photography Tour"],
+        "rating": 4.8,
+        "feedback": "Swimming pool was fantastic! Trekking trail was well marked, and the scuba diving was a unique experience. The photography tour helped me capture some amazing shots."
+      },
+      {
+        "hotel": "Oberoi Trident",
+        "activities": ["Spa", "Gym", "Wine Tasting", "Cultural Show", "Golf"],
+        "rating": 4.2,
+        "feedback": "Relaxing spa and clean gym. The cultural show was vibrant and well-organized. Enjoyed golf and the wine tasting. Room was slightly smaller than expected."
+      }
+    ]
+  },
+  {
+    "customer_id": "C1004",
+    "name": "Sara Ali",
+    "email": "sara@example.com",
+    "membership": "Gold",
+    "past_visits": [
+      {
+        "hotel": "Radisson Blu",
+        "activities": ["Cooking Class", "Spa", "City Tour", "Cycling", "Yoga"],
+        "rating": 5.0,
+        "feedback": "Loved learning new recipes! Spa was luxurious. Yoga in the morning was energizing. The city tour guide was knowledgeable. Bicycles were available for local exploration."
+      },
+      {
+        "hotel": "ITC Grand",
+        "activities": ["Yoga", "Gym", "Pottery Workshop", "Dance Class", "Live Music"],
+        "rating": 3.8,
+        "feedback": "Yoga was great and pottery workshop was fun. Dance class had energetic instructors. Gym was crowded and music in the lounge was too loud at times."
+      }
+    ]
+  },
+  {
+    "customer_id": "C1005",
+    "name": "Ravi Mehra",
+    "email": "ravi@example.com",
+    "membership": "Silver",
+    "past_visits": [
+      {
+        "hotel": "Holiday Inn",
+        "activities": ["Swimming", "Spa", "Cycling", "Indoor Games", "Live Music"],
+        "rating": 4.0,
+        "feedback": "Clean and relaxing pool. Spa was decent. Enjoyed the evening live music with cocktails. Indoor games like table tennis kept me engaged during free hours. Overall great ambiance."
+      }
+    ]
+  }
+]

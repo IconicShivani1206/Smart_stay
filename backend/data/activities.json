@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1000,
+    "activity": "Spa",
+    "category": "Wellness",
+    "price": 1771,
+    "description": "A full-body rejuvenation experience including massage, steam bath, and aromatherapy."
+  },
+  {
+    "id": 1001,
+    "activity": "Yoga",
+    "category": "Wellness",
+    "price": 551,
+    "description": "Daily guided yoga sessions with meditation and breathing exercises."
+  },
+  {
+    "id": 1002,
+    "activity": "Steam Room",
+    "category": "Wellness",
+    "price": 672,
+    "description": "Herbal steam therapy with detoxifying oils and relaxing environment."
+  },
+  {
+    "id": 1003,
+    "activity": "Hot Stone Therapy",
+    "category": "Wellness",
+    "price": 1202,
+    "description": "Heated stone massage to relax muscles and improve circulation."
+  },
+  {
+    "id": 1004,
+    "activity": "Aromatherapy",
+    "category": "Wellness",
+    "price": 931,
+    "description": "Essential oil treatments to boost mood and relieve stress."
+  },
+  {
+    "id": 1005,
+    "activity": "Trekking",
+    "category": "Adventure",
+    "price": 1882,
+    "description": "Guided hikes through scenic mountain trails with safety gear."
+  },
+  {
+    "id": 1006,
+    "activity": "Rock Climbing",
+    "category": "Adventure",
+    "price": 1549,
+    "description": "Wall climbing with instructor guidance and full safety harness."
+  },
+  {
+    "id": 1007,
+    "activity": "Zip Lining",
+    "category": "Adventure",
+    "price": 1305,
+    "description": "High-altitude zipline adventure over scenic valleys."
+  },
+  {
+    "id": 1008,
+    "activity": "River Rafting",
+    "category": "Adventure",
+    "price": 1113,
+    "description": "White water rafting with trained professionals and gear."
+  },
+  {
+    "id": 1009,
+    "activity": "Paragliding",
+    "category": "Adventure",
+    "price": 927,
+    "description": "Fly high with certified pilots and scenic aerial views."
+  },
+  {
+    "id": 1010,
+    "activity": "Swimming",
+    "category": "Fitness & Sports",
+    "price": 365,
+    "description": "Access to indoor heated pool with lifeguard and poolside drinks."
+  },
+  {
+    "id": 1011,
+    "activity": "Gym",
+    "category": "Fitness & Sports",
+    "price": 1390,
+    "description": "Fully-equipped fitness center with trainer and personalized plans."
+  },
+  {
+    "id": 1012,
+    "activity": "Cycling",
+    "category": "Fitness & Sports",
+    "price": 1325,
+    "description": "Nature trail cycling with snacks, water, helmet and guide."
+  },
+  {
+    "id": 1013,
+    "activity": "Zumba",
+    "category": "Fitness & Sports",
+    "price": 1926,
+    "description": "Fun, high-energy dance workout sessions with professional trainers."
+  },
+  {
+    "id": 1014,
+    "activity": "Boxing",
+    "category": "Fitness & Sports",
+    "price": 1896,
+    "description": "Punch bag training, gloves provided, personal trainer sessions."
+  },
+  {
+    "id": 1015,
+    "activity": "Virtual Games",
+    "category": "Leisure & Fun",
+    "price": 1560,
+    "description": "VR headset gaming with multiplayer and motion sensors."
+  },
+  {
+    "id": 1016,
+    "activity": "Gaming Zone",
+    "category": "Leisure & Fun",
+    "price": 400,
+    "description": "Indoor games including PlayStation, Xbox, and racing simulators."
+  },
+  {
+    "id": 1017,
+    "activity": "Board Games",
+    "category": "Leisure & Fun",
+    "price": 531,
+    "description": "Classic games like chess, carrom, Monopoly with comfy seating."
+  },
+  {
+    "id": 1018,
+    "activity": "Movie Night",
+    "category": "Leisure & Fun",
+    "price": 1133,
+    "description": "Private mini-theatre with free popcorn and beverage."
+  },
+  {
+    "id": 1019,
+    "activity": "Arcade Games",
+    "category": "Leisure & Fun",
+    "price": 1533,
+    "description": "Classic arcade setup with ticket rewards and joystick fun."
+  },
+  {
+    "id": 1020,
+    "activity": "Cooking Class",
+    "category": "Cultural & Creative",
+    "price": 1386,
+    "description": "Learn regional cuisines with a professional chef and live tasting."
+  },
+  {
+    "id": 1021,
+    "activity": "Painting Workshop",
+    "category": "Cultural & Creative",
+    "price": 1037,
+    "description": "Canvas and supplies included for guided painting sessions."
+  },
+  {
+    "id": 1022,
+    "activity": "Pottery",
+    "category": "Cultural & Creative",
+    "price": 1764,
+    "description": "Hands-on clay sculpting and pottery wheel experience."
+  },
+  {
+    "id": 1023,
+    "activity": "Dance Class",
+    "category": "Cultural & Creative",
+    "price": 1323,
+    "description": "Learn traditional and modern styles from trained instructors."
+  },
+  {
+    "id": 1024,
+    "activity": "Music Night",
+    "category": "Cultural & Creative",
+    "price": 1133,
+    "description": "Live acoustic band, karaoke options, and open mic."
+  },
+  {
+    "id": 1025,
+    "activity": "Birthday Event",
+    "category": "Celebration & Events",
+    "price": 584,
+    "description": "Decorations, cake, photography, music, and dining area."
+  },
+  {
+    "id": 1026,
+    "activity": "Anniversary Celebration",
+    "category": "Celebration & Events",
+    "price": 1205,
+    "description": "Candlelight dinner, roses, customized cake and wine."
+  },
+  {
+    "id": 1027,
+    "activity": "Private Party",
+    "category": "Celebration & Events",
+    "price": 1113,
+    "description": "Exclusive venue access, DJ, lights, snacks and drinks."
+  },
+  {
+    "id": 1028,
+    "activity": "Kids Party",
+    "category": "Celebration & Events",
+    "price": 1301,
+    "description": "Cartoon themes, games, bouncy castle, cupcakes and goodies."
+  },
+  {
+    "id": 1029,
+    "activity": "Proposal Event",
+    "category": "Celebration & Events",
+    "price": 388,
+    "description": "Romantic d\u00e9cor, violinist, roses, personalized dinner."
+  },
+  {
+    "id": 1030,
+    "activity": "Fine Dining",
+    "category": "Luxury & Dining",
+    "price": 1733,
+    "description": "5-course gourmet meal with live music and candlelight setup."
+  },
+  {
+    "id": 1031,
+    "activity": "Wine Tasting",
+    "category": "Luxury & Dining",
+    "price": 938,
+    "description": "Exclusive wine varieties with cheese platters and sommelier."
+  },
+  {
+    "id": 1032,
+    "activity": "Buffet Dinner",
+    "category": "Luxury & Dining",
+    "price": 501,
+    "description": "Unlimited multi-cuisine spread with desserts and beverages."
+  },
+  {
+    "id": 1033,
+    "activity": "Poolside BBQ",
+    "category": "Luxury & Dining",
+    "price": 1235,
+    "description": "Grilled meats and veggies by the pool with soft lights."
+  },
+  {
+    "id": 1034,
+    "activity": "High Tea",
+    "category": "Luxury & Dining",
+    "price": 1464,
+    "description": "Elegant tea selection with pastries, snacks, and calm ambiance."
+  },
+  {
+    "id": 1035,
+    "activity": "Bird Watching",
+    "category": "Nature & Outdoors",
+    "price": 1091,
+    "description": "Guided morning trail to spot exotic bird species."
+  },
+  {
+    "id": 1036,
+    "activity": "Stargazing",
+    "category": "Nature & Outdoors",
+    "price": 361,
+    "description": "Night sky exploration with telescopes and expert talk."
+  },
+  {
+    "id": 1037,
+    "activity": "Nature Walk",
+    "category": "Nature & Outdoors",
+    "price": 980,
+    "description": "Guided walk through botanical gardens and forest edges."
+  },
+  {
+    "id": 1038,
+    "activity": "Picnic Spot",
+    "category": "Nature & Outdoors",
+    "price": 1528,
+    "description": "Lush lawn reserved with snacks, mats, and games."
+  },
+  {
+    "id": 1039,
+    "activity": "Horse Riding",
+    "category": "Nature & Outdoors",
+    "price": 1464,
+    "description": "Riding with trainers, helmets, and countryside view."
+  },
+  {
+    "id": 1040,
+    "activity": "AI Workshop",
+    "category": "Tech & Innovation",
+    "price": 1820,
+    "description": "Intro to AI, fun projects and real-time demos."
+  },
+  {
+    "id": 1041,
+    "activity": "Drone Flying",
+    "category": "Tech & Innovation",
+    "price": 853,
+    "description": "Fly drones with instructor in open field."
+  },
+  {
+    "id": 1042,
+    "activity": "3D Printing",
+    "category": "Tech & Innovation",
+    "price": 386,
+    "description": "Hands-on 3D model creation and print session."
+  },
+  {
+    "id": 1043,
+    "activity": "Coding for Kids",
+    "category": "Tech & Innovation",
+    "price": 1823,
+    "description": "Fun coding games using Scratch and Blockly."
+  },
+  {
+    "id": 1044,
+    "activity": "AR Tour",
+    "category": "Tech & Innovation",
+    "price": 1640,
+    "description": "Augmented Reality tour of hotel and surroundings."
+  },
+  {
+    "id": 1045,
+    "activity": "Foot Massage",
+    "category": "Relaxation & Me-Time",
+    "price": 580,
+    "description": "30-minute foot therapy with herbal oils."
+  },
+  {
+    "id": 1046,
+    "activity": "Book Lounge",
+    "category": "Relaxation & Me-Time",
+    "price": 586,
+    "description": "Private library with coffee and cozy recliners."
+  },
+  {
+    "id": 1047,
+    "activity": "Meditation Pod",
+    "category": "Relaxation & Me-Time",
+    "price": 730,
+    "description": "Soundproof zone with guided voice meditation."
+  },
+  {
+    "id": 1048,
+    "activity": "Nap Capsule",
+    "category": "Relaxation & Me-Time",
+    "price": 1246,
+    "description": "Smart recliners with mood lighting for deep naps."
+  },
+  {
+    "id": 1049,
+    "activity": "Bubble Bath",
+    "category": "Relaxation & Me-Time",
+    "price": 1908,
+    "description": "Luxury bathtub soak with salts, candles, and soft music."
+  },
+  {
+    "id": 1050,
+    "activity": "Yoga - Premium",
+    "category": "Wellness",
+    "price": 701,
+    "description": "Daily guided yoga sessions with meditation and breathing exercises. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1051,
+    "activity": "Gaming Zone - Premium",
+    "category": "Leisure & Fun",
+    "price": 550,
+    "description": "Indoor games including PlayStation, Xbox, and racing simulators. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1052,
+    "activity": "Wine Tasting - Premium",
+    "category": "Luxury & Dining",
+    "price": 1088,
+    "description": "Exclusive wine varieties with cheese platters and sommelier. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1053,
+    "activity": "Nature Walk - Premium",
+    "category": "Nature & Outdoors",
+    "price": 1130,
+    "description": "Guided walk through botanical gardens and forest edges. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1054,
+    "activity": "Pottery - Premium",
+    "category": "Cultural & Creative",
+    "price": 1914,
+    "description": "Hands-on clay sculpting and pottery wheel experience. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1055,
+    "activity": "Dance Class - Premium",
+    "category": "Cultural & Creative",
+    "price": 1473,
+    "description": "Learn traditional and modern styles from trained instructors. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1056,
+    "activity": "Aromatherapy - Premium",
+    "category": "Wellness",
+    "price": 1081,
+    "description": "Essential oil treatments to boost mood and relieve stress. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1057,
+    "activity": "Steam Room - Premium",
+    "category": "Wellness",
+    "price": 822,
+    "description": "Herbal steam therapy with detoxifying oils and relaxing environment. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1058,
+    "activity": "Meditation Pod - Premium",
+    "category": "Relaxation & Me-Time",
+    "price": 880,
+    "description": "Soundproof zone with guided voice meditation. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1059,
+    "activity": "Pottery - Premium",
+    "category": "Cultural & Creative",
+    "price": 1914,
+    "description": "Hands-on clay sculpting and pottery wheel experience. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1060,
+    "activity": "Board Games - Premium",
+    "category": "Leisure & Fun",
+    "price": 681,
+    "description": "Classic games like chess, carrom, Monopoly with comfy seating. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1061,
+    "activity": "Zumba - Premium",
+    "category": "Fitness & Sports",
+    "price": 2076,
+    "description": "Fun, high-energy dance workout sessions with professional trainers. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1062,
+    "activity": "Boxing - Premium",
+    "category": "Fitness & Sports",
+    "price": 2046,
+    "description": "Punch bag training, gloves provided, personal trainer sessions. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1063,
+    "activity": "Zumba - Premium - Premium",
+    "category": "Fitness & Sports",
+    "price": 2226,
+    "description": "Fun, high-energy dance workout sessions with professional trainers. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1064,
+    "activity": "Birthday Event - Premium",
+    "category": "Celebration & Events",
+    "price": 734,
+    "description": "Decorations, cake, photography, music, and dining area. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1065,
+    "activity": "Kids Party - Premium",
+    "category": "Celebration & Events",
+    "price": 1451,
+    "description": "Cartoon themes, games, bouncy castle, cupcakes and goodies. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1066,
+    "activity": "Wine Tasting - Premium - Premium",
+    "category": "Luxury & Dining",
+    "price": 1238,
+    "description": "Exclusive wine varieties with cheese platters and sommelier. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1067,
+    "activity": "Virtual Games - Premium",
+    "category": "Leisure & Fun",
+    "price": 1710,
+    "description": "VR headset gaming with multiplayer and motion sensors. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1068,
+    "activity": "Zumba - Premium - Premium",
+    "category": "Fitness & Sports",
+    "price": 2226,
+    "description": "Fun, high-energy dance workout sessions with professional trainers. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1069,
+    "activity": "Zip Lining - Premium",
+    "category": "Adventure",
+    "price": 1455,
+    "description": "High-altitude zipline adventure over scenic valleys. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1070,
+    "activity": "Horse Riding - Premium",
+    "category": "Nature & Outdoors",
+    "price": 1614,
+    "description": "Riding with trainers, helmets, and countryside view. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1071,
+    "activity": "Cycling - Premium",
+    "category": "Fitness & Sports",
+    "price": 1475,
+    "description": "Nature trail cycling with snacks, water, helmet and guide. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1072,
+    "activity": "Kids Party - Premium - Premium",
+    "category": "Celebration & Events",
+    "price": 1601,
+    "description": "Cartoon themes, games, bouncy castle, cupcakes and goodies. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1073,
+    "activity": "Arcade Games - Premium",
+    "category": "Leisure & Fun",
+    "price": 1683,
+    "description": "Classic arcade setup with ticket rewards and joystick fun. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1074,
+    "activity": "Zumba - Premium - Premium",
+    "category": "Fitness & Sports",
+    "price": 2226,
+    "description": "Fun, high-energy dance workout sessions with professional trainers. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1075,
+    "activity": "Aromatherapy - Premium",
+    "category": "Wellness",
+    "price": 1081,
+    "description": "Essential oil treatments to boost mood and relieve stress. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1076,
+    "activity": "Wine Tasting - Premium - Premium - Premium",
+    "category": "Luxury & Dining",
+    "price": 1388,
+    "description": "Exclusive wine varieties with cheese platters and sommelier. Includes VIP access and free refreshments. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1077,
+    "activity": "Gaming Zone - Premium - Premium",
+    "category": "Leisure & Fun",
+    "price": 700,
+    "description": "Indoor games including PlayStation, Xbox, and racing simulators. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1078,
+    "activity": "Pottery - Premium - Premium",
+    "category": "Cultural & Creative",
+    "price": 2064,
+    "description": "Hands-on clay sculpting and pottery wheel experience. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1079,
+    "activity": "Kids Party - Premium - Premium - Premium",
+    "category": "Celebration & Events",
+    "price": 1751,
+    "description": "Cartoon themes, games, bouncy castle, cupcakes and goodies. Includes VIP access and free refreshments. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1080,
+    "activity": "Poolside BBQ - Premium",
+    "category": "Luxury & Dining",
+    "price": 1385,
+    "description": "Grilled meats and veggies by the pool with soft lights. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1081,
+    "activity": "Nature Walk - Premium - Premium",
+    "category": "Nature & Outdoors",
+    "price": 1280,
+    "description": "Guided walk through botanical gardens and forest edges. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1082,
+    "activity": "Arcade Games - Premium",
+    "category": "Leisure & Fun",
+    "price": 1683,
+    "description": "Classic arcade setup with ticket rewards and joystick fun. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1083,
+    "activity": "Wine Tasting - Premium",
+    "category": "Luxury & Dining",
+    "price": 1088,
+    "description": "Exclusive wine varieties with cheese platters and sommelier. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1084,
+    "activity": "Picnic Spot - Premium",
+    "category": "Nature & Outdoors",
+    "price": 1678,
+    "description": "Lush lawn reserved with snacks, mats, and games. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1085,
+    "activity": "Spa - Premium",
+    "category": "Wellness",
+    "price": 1921,
+    "description": "A full-body rejuvenation experience including massage, steam bath, and aromatherapy. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1086,
+    "activity": "Paragliding - Premium",
+    "category": "Adventure",
+    "price": 1077,
+    "description": "Fly high with certified pilots and scenic aerial views. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1087,
+    "activity": "High Tea - Premium",
+    "category": "Luxury & Dining",
+    "price": 1614,
+    "description": "Elegant tea selection with pastries, snacks, and calm ambiance. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1088,
+    "activity": "Nap Capsule - Premium",
+    "category": "Relaxation & Me-Time",
+    "price": 1396,
+    "description": "Smart recliners with mood lighting for deep naps. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1089,
+    "activity": "Wine Tasting - Premium",
+    "category": "Luxury & Dining",
+    "price": 1088,
+    "description": "Exclusive wine varieties with cheese platters and sommelier. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1090,
+    "activity": "Aromatherapy - Premium",
+    "category": "Wellness",
+    "price": 1081,
+    "description": "Essential oil treatments to boost mood and relieve stress. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1091,
+    "activity": "Aromatherapy - Premium - Premium",
+    "category": "Wellness",
+    "price": 1231,
+    "description": "Essential oil treatments to boost mood and relieve stress. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1092,
+    "activity": "Movie Night - Premium",
+    "category": "Leisure & Fun",
+    "price": 1283,
+    "description": "Private mini-theatre with free popcorn and beverage. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1093,
+    "activity": "High Tea - Premium",
+    "category": "Luxury & Dining",
+    "price": 1614,
+    "description": "Elegant tea selection with pastries, snacks, and calm ambiance. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1094,
+    "activity": "Paragliding - Premium - Premium",
+    "category": "Adventure",
+    "price": 1227,
+    "description": "Fly high with certified pilots and scenic aerial views. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1095,
+    "activity": "Nature Walk - Premium - Premium - Premium",
+    "category": "Nature & Outdoors",
+    "price": 1430,
+    "description": "Guided walk through botanical gardens and forest edges. Includes VIP access and free refreshments. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1096,
+    "activity": "Aromatherapy - Premium - Premium",
+    "category": "Wellness",
+    "price": 1231,
+    "description": "Essential oil treatments to boost mood and relieve stress. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1097,
+    "activity": "High Tea - Premium",
+    "category": "Luxury & Dining",
+    "price": 1614,
+    "description": "Elegant tea selection with pastries, snacks, and calm ambiance. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1098,
+    "activity": "High Tea - Premium - Premium",
+    "category": "Luxury & Dining",
+    "price": 1764,
+    "description": "Elegant tea selection with pastries, snacks, and calm ambiance. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  },
+  {
+    "id": 1099,
+    "activity": "Gaming Zone - Premium - Premium - Premium",
+    "category": "Leisure & Fun",
+    "price": 850,
+    "description": "Indoor games including PlayStation, Xbox, and racing simulators. Includes VIP access and free refreshments. Includes VIP access and free refreshments. Includes VIP access and free refreshments."
+  }
+]

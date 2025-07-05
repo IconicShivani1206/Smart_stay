@@ -1,0 +1,9 @@
+# === Frontend Dependencies ===
+streamlit
+requests
+streamlit-extras
+
+# === Backend Dependencies ===
+Flask
+google-generativeai
+
